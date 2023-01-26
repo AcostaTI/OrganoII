@@ -1,0 +1,22 @@
+.footer {
+    background-color: #6278F7;
+    background-image: url("/public/img/fundo.png");
+    max-width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 80px;
+}
+
+.footer .redes-socias img{
+    width: 28px;
+    padding-left: 35px;
+}
+
+.footer .logo {
+    width: 166px;
+}
+
+.footer .copyright {
+    color: #ffffff;
+}
